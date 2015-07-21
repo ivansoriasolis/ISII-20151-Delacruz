@@ -1,0 +1,6 @@
+
+
+Observaciones tercer avance
+----------------------------------------------------------------
+- Tienes muy pocos commits
+- Los commits deben tener nombres significativos
